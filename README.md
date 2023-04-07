@@ -1,4 +1,6 @@
-### Hi there 👋 Thanks for stopping by! I'm Charles McCall. I like building things!  My favorite languages are C# and Python, though I'm discovering that TypeScript has some wonderful qualities. I have a tendency of trying to learn anything I can get my hands on (which is a lot now that I have access to the internet) and my favorite way to learn is to build something in it. 
+### Hi there 👋 Thanks for stopping by! I'm Charles McCall. 
+
+I like building things.  My favorite languages are C# and Python, though I'm discovering that TypeScript has some wonderful qualities. I have a tendency of trying to learn anything I can get my hands on (which is a lot now that I have access to the internet) and my favorite way to learn is to build something in it. 
 
 The same is true in my spare time!  In addition to the years of professional ballet and musical theatre, I have a collection of hobbies that I like to do whenever I have time (see: When hell freezes over) including costume design, sewing, and leatherworking. I also make time to sing, play guitar, and write and perform songs whenever possible. 
 
